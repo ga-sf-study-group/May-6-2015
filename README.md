@@ -1,7 +1,8 @@
 <h1>May 6, 2015</h1>
 
-<h2>Problem #1 - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”</h2>
-<p>Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.</p>
+<h2>Problem #1 - Is Palindrome</h2>
+
+<p>Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”</p>
 
 <h2>Problem #2 - Mortgage Calculator</h2>
 <p>Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).</p>
