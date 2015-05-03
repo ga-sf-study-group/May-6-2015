@@ -8,7 +8,7 @@
 <p>Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan. For added complexity, add an option for users to select the compounding interval (Monthly, Weekly, Daily, Continually).</p>
 
 <h2>Problem #3 - Counting Sundays</h2>
-<p>You are given the following information, but you may prefer to do some research for yourself.
+<p>You are given the following information, but you may prefer to do some research for yourself.<br>
 
 1 Jan 1900 was a Monday.<br>
 Thirty days has September,<br>
