@@ -20,9 +20,9 @@ And on leap years, twenty-nine.<br>
 A leap year occurs on any year evenly divisible by 4, but not on a century unless it is divisible by 400.<br><br>
 How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?</p>
 
-<h2>Problem #4</h2>
+<h2>Problem #4 - Efficient Queue</h2>
 <p>A Queue is a datastructure which has two methods, enqueue and dequeue, that accepts data in a first-in first-out manner. Enqueue pushes data on to the back of the queue and dequeue pulls an item off of the front. A stack is datastructure which has two methods, push and pop, that accepts data in a first-in last out manner. Push puts an item onto the top of the stack, and pop removes an item from the top of the stack. In most languages a stack can be efficiently represented with an array. Create a queue using 2 stacks.</p>
 
-<h2>Problem #5</h2>
+<h2>Problem #5 - Parentheses Matching</h2>
 <p>Create a function which accepts a string containing parentheses and returns true or false depending if the the parentheses are well matched.
 For example: if the string is "(hello (world))", then the output should be true, but if the string is "((hello (world))" the the output should be false because the parentheses do not correctly match up. Only "(" and ")" will be used. If the string contains no parentheses return true. </p>
