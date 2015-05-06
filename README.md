@@ -25,4 +25,4 @@ How many Sundays fell on the first of the month during the twentieth century (1 
 
 <h2>Problem #5</h2>
 <p>Create a function which accepts a string containing parentheses and returns true or false depending if the the parentheses are well matched.
-For example: if str is "(hello (world))", then the output should be true, but if str is "((hello (world))" the the output should be false because the parentheses do not correctly match up. Only "(" and ")" will be used. If str contains no parentheses return true. </p>
+For example: if the string is "(hello (world))", then the output should be true, but if the string is "((hello (world))" the the output should be false because the parentheses do not correctly match up. Only "(" and ")" will be used. If the string contains no parentheses return true. </p>
