@@ -21,8 +21,8 @@ A leap year occurs on any year evenly divisible by 4, but not on a century unles
 How many Sundays fell on the first of the month during the twentieth century (1 Jan 1901 to 31 Dec 2000)?</p>
 
 <h2>Problem #4</h2>
-<p>A Queue is a datastructure which has two methods, enqueue and dequeue, that accepts data in a first-in first-out manner. Enqueue pushes data on to the back of the queue and dequeue pulls an item off of the front. A stack is datastructure which has two methods, push and pop, that accepts data in a first-in last out manner. Push puts an item onto the top of the stack, and pop removes an item from the top of the stack. Create a queue using 2 stacks. In most languages a stack can be efficiently represented with an array.</p>
+<p>A Queue is a datastructure which has two methods, enqueue and dequeue, that accepts data in a first-in first-out manner. Enqueue pushes data on to the back of the queue and dequeue pulls an item off of the front. A stack is datastructure which has two methods, push and pop, that accepts data in a first-in last out manner. Push puts an item onto the top of the stack, and pop removes an item from the top of the stack. In most languages a stack can be efficiently represented with an array. Create a queue using 2 stacks.</p>
 
-<h2>Problem #5</2>
-Create a function which accepts a string and returns true or false depending on 
-For example: if str is "(hello (world))", then the output should be 1, but if str is "((hello (world))" the the output should be 0 because the brackets do not correctly match up. Only "(" and ")" will be used as brackets. If str contains no brackets return 1. 
+<h2>Problem #5</h2>
+<p>Create a function which accepts a string containing parentheses and returns true or false depending if the the parentheses are well matched.
+For example: if str is "(hello (world))", then the output should be true, but if str is "((hello (world))" the the output should be false because the parentheses do not correctly match up. Only "(" and ")" will be used. If str contains no parentheses return true. </p>
